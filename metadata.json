@@ -1,0 +1,6 @@
+{
+  "name": "Offline Developer Copilot",
+  "description": "On-device AI coding assistant that explains and fixes programming errors with network completely disabled.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
